@@ -2,6 +2,7 @@ package modulo3;
 
 import java.util.*;
 
+//FabianaArzamendia
 public class Nivell2 {
 	
 	public static void main(String[] args) {
@@ -54,7 +55,7 @@ public class Nivell2 {
 				
 			}
 			 System.out.print("Alumno [" + i + "]= ");
-			System.out.print(" tiene una media de = " + media);
+			System.out.print(" tienes una media de = " + media);
 			
 			if(media >= 5 ) {
 				for(int k = 0 ; k  < NotasAlumnos.length ; k++) {
@@ -67,7 +68,7 @@ public class Nivell2 {
 				
 			}
 			else {
-				System.out.println(" estas suspendido");
+				System.out.println(" has suspendido");
 			}
 			
 			
