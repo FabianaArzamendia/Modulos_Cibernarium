@@ -2,6 +2,7 @@ package modulo3;
 
 import java.util.Arrays;
 
+//FabianaArzamendia
 public class Fase3 {
 	
 	public static void main(String[] args) {
@@ -9,7 +10,7 @@ public class Fase3 {
 		String [] arrayCiudad = {"Berlin" , "Madrid"  ,"Lisboa" , "Barcelona" , "Roma" , "Napoles"};
 		String [] ArrayCiutatsModificades = new String [6];
 		
-		System.out.println("Ciutats modificades per ordre alfebétic: ");
+		System.out.println("Ciutats modificades per ordre alfebÃ©tic: ");
 		
 		for(int i = 0 ; i < arrayCiudad.length ; i++) {
 						
